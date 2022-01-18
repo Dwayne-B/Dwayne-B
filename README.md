@@ -5,8 +5,8 @@
 - 🔭 Check my portfolio out: [My portfolio][website]!
 - 🌱 I’m currently learning everything I can to get a job 🤣
 - 👯 I’m looking to collaborate with other developers/designers
-- 🥅 2021 Goals: Land my first web developer job, Contribute more to Open Source projects, and improve documentation.
-- ⚡ Fun fact: I love to play music and enjoy track and field.
+- 🥅 2022 Goals: Participate in local netwroking events for entrepreneurs and developers.
+- ⚡ Fun fact: I love to play musical instruments and enjoy track and field.
 
 ### Connect with me:
 
