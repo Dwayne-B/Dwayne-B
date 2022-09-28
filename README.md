@@ -53,8 +53,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Dwayne B
+### working father of two pups.
 - code is life 
- -working father of two pups.
-- Currently working on some of my cool side projects based on Web Development.
+- Currently working on some of my cool side projects.
 - I'm currently looking for opportunities.
