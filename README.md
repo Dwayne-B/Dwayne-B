@@ -1,8 +1,8 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on ** three.js stuff**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **photoshop and gimp**
 
 - 💬 Ask me about **anime or ui/ux**
 
