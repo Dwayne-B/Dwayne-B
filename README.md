@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **photoshop and gimp**
 
-- 💬 Ask me about **anime or front end development**
+- 💬 Ask me about **Music or front end development**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
