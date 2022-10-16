@@ -54,6 +54,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### working father of two pups.
-- code is life 
-- Currently working on some of my cool side projects.
+- Team front-end mentor  
+- Focused on sustainability and reusability
 - I'm currently looking for opportunities.
