@@ -1,10 +1,10 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently working on ** three.js stuff**
+- 🔭 I’m currently working on ** a ecommerce website built with NEXT.js**
 
 - 🌱 I’m currently learning **photoshop and gimp**
 
-- 💬 Ask me about **Music or front end development**
+- 💬 Ask me about **automation or front end development**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
