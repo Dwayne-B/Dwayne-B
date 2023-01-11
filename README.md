@@ -1,6 +1,6 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently working on ** a ecommerce website built with NEXT.js**
+- 🔭 I’m currently working on **next.js website**
 
 - 🌱 I’m currently learning **photoshop and gimp**
 
