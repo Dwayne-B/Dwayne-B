@@ -1,6 +1,6 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently working on **next.js and GSAP animation!**
+- 🔭 I’m currently working on **Next.js and GSAP animation!**
 
 - 🌱 I’m currently learning **photoshop and gimp**
 
