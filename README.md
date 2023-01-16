@@ -48,7 +48,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### working father of two pups.
-- Team front-end mentor  
-- Focused on sustainability and reusability
+### life long learner.
+- front-end mentor is awesome  
+- Focused on sustainability
 - I'm currently looking for opportunities.
