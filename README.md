@@ -1,10 +1,8 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently working on **Next.js and GSAP animation!**
+- 🔭 I’m currently working on **GSAP animation!**
 
-- 🌱 I’m currently learning **photoshop and gimp**
-
-- 💬 Ask me about **front end development**
+- 🌱 I’m currently learning **postgres**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
