@@ -1,8 +1,8 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently working on **GSAP animation!**
+- 🔭 I’m currently working on **a full stack app!**
 
-- 🌱 I’m currently learning **postgres**
+- 🌱 I’m currently learning **postgres and python**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
