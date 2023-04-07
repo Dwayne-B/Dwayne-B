@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **a full stack app!**
 
-- 🌱 I’m currently learning **postgres and python**
+- 🌱 I’m currently learning **postgres**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
