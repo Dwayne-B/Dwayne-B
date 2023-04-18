@@ -1,6 +1,6 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently working on **a fullstack application!**
+- 🔭 I’m currently working on **Free Code Camp, Hacker Rank, and Interview Prep!**
 
 - 🌱 I’m currently learning **postgres**
 
