@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Free Code Camp, Hacker Rank, and Interview Prep!**
 
-- 🌱 I’m currently learning **postgres & React native**
+- 🌱 I’m currently learning **postgres,Angular, & React native**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
