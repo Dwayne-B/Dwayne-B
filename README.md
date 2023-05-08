@@ -65,7 +65,4 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### life long learner.
-- front-end mentor is awesome  
-- Focused on sustainability
-- I'm currently looking for opportunities.
+### I'm currently looking for opportunities.
