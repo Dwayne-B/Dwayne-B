@@ -1,8 +1,8 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently working on **Free Code Camp, Hacker Rank, and Interview Prep!**
+- 🔭 I’m currently working on **Interview Prep**
 
-- 🌱 I’m currently learning **Postgres,Angular, & React Native**
+- 🌱 I’m currently learning **Postgres & React Native**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
