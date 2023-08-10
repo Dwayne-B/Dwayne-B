@@ -53,9 +53,7 @@
 </a>
 </p>
 
-<a href="https://www.linkedin.com/in/dwayne-bynum-webdeveloper/">
-  <img align="left" alt="Dwayne's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 <a href="https://github.com/Dwayne-B">
   <img align="left" alt="Dwayne's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -63,7 +61,6 @@
   <img align="left" alt="Dwayne's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br />
-### I'm currently looking for opportunities.
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
