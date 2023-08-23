@@ -1,8 +1,8 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently working on **Interview Prep**
+- 🔭 I’m currently interested in **Sustainable gardening and React Native**
 
-- 🌱 I’m currently learning **Postgres & React Native**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
