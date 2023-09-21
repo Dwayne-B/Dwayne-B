@@ -1,8 +1,8 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently interested in **web3**
+- 🔭 I’m currently interested in **Sustainable living**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
