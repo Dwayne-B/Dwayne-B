@@ -1,6 +1,6 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently interested in **Sustainable living**
+- 🔭 I’m currently interested in **animation**
 
 - 🌱 I’m currently learning **Angular and Vue**
 
