@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently interested in **Sustainable living**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Angular and Vue**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
