@@ -1,8 +1,8 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently interested in **animation**
+- 🔭 I’m currently **Job hunting**
 
-- 🌱 I’m currently learning **Angular and Vue**
+- 🌱 I’m currently learning **Vue**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
