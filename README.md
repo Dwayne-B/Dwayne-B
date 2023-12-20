@@ -1,8 +1,8 @@
 ## Hello, I'm Dwayne :wave:
 
-- 🔭 I’m currently **Job hunting**
+- 🔭 I’m currently **Seeking new opportunities!**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **dwaynebynumtech@gmail.com**
 
