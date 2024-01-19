@@ -1,10 +1,7 @@
 ## Hello, I'm Dwayne :wave:
 
 - 🔭 I’m currently **Seeking new opportunities!**
-
-- 🌱 I’m currently learning **SQL**
-
-- 📫 How to reach me **dwaynebynumtech@gmail.com**
+- 📫 How to reach me **dwaynebynum5@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
