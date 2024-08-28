@@ -4,8 +4,8 @@
            
 **🛠 Tech Stack**
 > skills
-- 🔭 back-end： ![nodedotjs](https://img.shields.io/badge/-Node.js-gray?style=flat-circle&logo=nodedotjs)
 - 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![REACT](https://img.shields.io/badge/-REACT-grey?style=flat-circle&logo=react)
+- 🔭 back-end： ![nodedotjs](https://img.shields.io/badge/-Node.js-gray?style=flat-circle&logo=nodedotjs)
 - :hammer_and_wrench: use-tool：![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
 - ⚙️ build：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Netlify](https://img.shields.io/badge/-Netlify-grey?style=flat-circle&logo=netlify)
 - 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat-circle&logo=MongoDB)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![postgresql](https://img.shields.io/badge/-PostgreSQL-yellow?style=flat-circle&logo=postgresql)
